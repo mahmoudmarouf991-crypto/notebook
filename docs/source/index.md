@@ -1,5 +1,4 @@
 # Jupyter Notebook Documentation
-
 Welcome to the **Jupyter Notebook** documentation site. **Jupyter Notebook**
 is a simplified notebook authoring application, and is a part of [Project
 Jupyter](https://docs.jupyter.org/en/latest/), a large umbrella project
